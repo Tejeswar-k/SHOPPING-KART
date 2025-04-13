@@ -17,7 +17,7 @@ This CRUD app is a simple web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-A live demo of the app is available at [Demo Link](https://main--magnificent-malasada-216f42.netlify.app/).
+A live demo of the app is available at [Demo Link](:https://famous-fenglisu-2e4609.netlify.app/).
 
 ![App Demo](insert_screenshot_here.png)
 
