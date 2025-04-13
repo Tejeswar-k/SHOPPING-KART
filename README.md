@@ -1,4 +1,4 @@
-# CRUD App
+![demo](https://github.com/user-attachments/assets/256fdd8e-a4e0-45ea-b755-8756969ca42f)# CRUD App
 
 Welcome to my CRUD (Create, Read, Update, Delete) web application!
 
@@ -19,7 +19,8 @@ This CRUD app is a simple web application built using HTML, CSS, and JavaScript.
 
 A live demo of the app is available at [Demo Link](https://famous-fenglisu-2e4609.netlify.app/).
 
-![App Demo](insert_screenshot_here.png)
+![App Demo](![demo](https://github.com/user-attachments/assets/e055644f-92eb-48bb-9571-3b2d730ab303)
+.png)
 
 ## Features
 
